@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ali Özay! <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliozay&label=Profile%20views&color=0e75b6&style=flat" alt="aliozay" /> </p>
+ # 👋 Hi there, I'm Ali Özay! <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliozay&label=Profile%20views&color=0e75b6&style=flat" alt="aliozay" /> </p>
 
 ### 👨‍💻 About Me
 I am a versatile **Software Developer** focused on building modern, high-performance mobile and backend solutions. My expertise lies at the intersection of **Mobile Development (React Native)**, **AI Integration**, and **Robotics**.
