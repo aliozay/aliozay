@@ -1,16 +1,16 @@
-   # 👋 Hi there, I'm Ali Özay! <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliozay&label=Profile%20views&color=0e75b6&style=flat" alt="aliozay" /> </p>
+   # Hi there, I'm Ali Özay! <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliozay&label=Profile%20views&color=0e75b6&style=flat" alt="aliozay" /> </p>
 
-### 👨‍💻 About Me
+### About Me
 I am a versatile **Software Developer** focused on building modern, high-performance mobile and backend solutions. My expertise lies at the intersection of **Mobile Development (React Native)**, **AI Integration**, and **Robotics**.
 
-- 🔭 I’m currently working on **Willkommen**, a comprehensive integration platform for newcomers.
-- 🌱 I’m currently deepening my knowledge in **Large Language Models (LLMs)** and **Edge Computing**.
-- 💬 Ask me about **React Native, Supabase, AI, or C++/ROS**.
-- 📫 How to reach me: **aliozay@outlook.com**
+- I’m currently working on **Willkommen**, a comprehensive integration platform for newcomers.
+- I’m currently deepening my knowledge in **Large Language Models (LLMs)** and **Edge Computing**.
+- Ask me about **React Native, Supabase, AI, or C++/ROS**.
+- How to reach me: **aliozay@outlook.com**
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 #### Mobile & Frontend
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -31,7 +31,7 @@ I am a versatile **Software Developer** focused on building modern, high-perform
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <p align="center">
   <a href="https://github.com/aliozay">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aliozay&show_icons=true&theme=radical&count_private=true" alt="Ali's GitHub stats" />
@@ -44,7 +44,7 @@ I am a versatile **Software Developer** focused on building modern, high-perform
 
 ---
 
-### 🌟 Featured Project
+### Featured Project
 **[Willkommen](https://github.com/aliozay/willkommen-showcase)**
 > A professional mobile application designed to simplify the integration process for immigrants in Germany. Built with React Native, Expo, and Supabase.
 
